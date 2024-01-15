@@ -1,0 +1,36 @@
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.flex-child {
+    flex: 1;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 550px;
+    height: auto;
+    padding-top: 50px;
+}
+
+.appStores {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+}
+
+
+.ad1 {
+    width: 550px;
+    height: auto;
+}
+
+.phone {
+    height: 500px;
+    width: auto;
+}
+
