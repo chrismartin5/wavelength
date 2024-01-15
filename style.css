@@ -7,12 +7,12 @@
 .flex-child {
     flex: 1;
     display: flex;
-    align-content: center;
+    align-items: center;
     justify-content: center;
 }
 
 .logo {
-    width: 550px;
+    width: 600px;
     height: auto;
     padding-top: 50px;
 }
@@ -24,7 +24,7 @@
 }
 
 
-.ad1 {
+.ad {
     width: 550px;
     height: auto;
 }
@@ -34,3 +34,13 @@
     width: auto;
 }
 
+.appStores {
+    width: 650px;
+    height: 150px;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
