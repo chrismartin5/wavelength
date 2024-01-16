@@ -1,7 +1,7 @@
 .flex-container {
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: center;
 }
 
 .flex-child {
@@ -17,13 +17,6 @@
     padding-top: 50px;
 }
 
-.appStores {
-    width: 200px;
-    height: auto;
-    padding: 10px;
-}
-
-
 .ad {
     width: 550px;
     height: auto;
@@ -35,8 +28,8 @@
 }
 
 .appStores {
-    width: 650px;
-    height: 150px;
+    width: 500px;
+    height: 100px;
 }
 
 .bottom {
